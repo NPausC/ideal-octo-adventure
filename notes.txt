@@ -2,3 +2,4 @@ git init // for initializing respository
 git add <file>
 git commit -m "your commit message"
 das ist ein Test
+das ist noch ein Test
